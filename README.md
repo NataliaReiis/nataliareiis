@@ -9,5 +9,5 @@
  <div align="center">
   <a href="https://github.com/nataliareiis">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nataliareiis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="10em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliareiis&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliareiis&layout=compact&langs_count=7&theme=dracula"/>
 </div>
