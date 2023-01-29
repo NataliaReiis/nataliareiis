@@ -1,7 +1,7 @@
 👀 Hi, I'm Natália Reis.
 
 - 🤗 I'm a computer science student. Work with building websites and designs
-- 🌱 I have knowledge in: HTML5, CSS3, JavaScript, PHP and Python.
+- 🌱 I have knowledge in: HTML5, CSS3, JavaScript and Python.
 - ⚡ Frameworks: Bootstrap
 - 🖌️ Design: Photogimp, Canvas, AdobeXD and  Wordpress.
 - ☕ I love coffee
