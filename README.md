@@ -1,10 +1,10 @@
-👀 Hi, I'm Natália Reis.
+👀 Olá, Eu sou Natália Reis.
 
-- 🤗 I'm a computer science student. Work with building websites and designs
-- 🌱 I have knowledge in: HTML5, CSS3, JavaScript and Python.
-- ⚡ Frameworks: Bootstrap
-- 🖌️ Design: Photogimp, Canvas, AdobeXD and  Wordpress.
-- ☕ I love coffee
+- 🤗 Estudante de Ciência da Computação. 
+- 🌱 Tecnologias: HTML5, CSS3, JavaScript, e Python.
+- ⚡ Frameworks: Bootstrap, React.
+- 🖌️ Design: Photogimp, Canvas, AdobeXD, Figma and  Wordpress.
+- ☕ Uma apaixonada por tecnologia e café.
  
  <div align="center">
   <a href="https://github.com/nataliareiis">
