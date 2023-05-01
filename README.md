@@ -3,7 +3,8 @@
 - 🤗 Estudante de Ciência da Computação. 
 - 🌱 Tecnologias: HTML5, CSS3, JavaScript, e Python.
 - ⚡ Frameworks: Bootstrap, React.
-- 🖌️ Design: Photogimp, Canvas, AdobeXD, Figma and  Wordpress.
+- 🖌️ Design: Photogimp, Canvas, AdobeXD, Figma.
+- :anger: Wordpress
 - ☕ Codar e café.
  
  <div align="center">
