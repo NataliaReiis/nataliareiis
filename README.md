@@ -4,7 +4,7 @@
 - 🌱 Tecnologias: HTML5, CSS3, JavaScript, e Python.
 - ⚡ Frameworks: Bootstrap, React.
 - 🖌️ Design: Photogimp, Canvas, AdobeXD, Figma and  Wordpress.
-- ☕ Uma apaixonada por tecnologia e café.
+- ☕ Codar e café.
  
  <div align="center">
   <a href="https://github.com/nataliareiis">
