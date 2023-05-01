@@ -4,7 +4,7 @@
 - 🌱 Tecnologias: HTML5, CSS3, JavaScript, e Python.
 - ⚡ Frameworks: Bootstrap, React.
 - 🖌️ Design: Photogimp, Canvas, AdobeXD, Figma.
-- :anger:Outros: Wordpress
+- :anger: Outros: Wordpress
 - ☕ Codar e café.
  
  <div align="center">
