@@ -1,9 +1,8 @@
 👀 Olá, Eu sou Natália Reis.
 
 - 🤗 Estudante de Ciência da Computação. 
-- 🌱 Tecnologias: HTML5, CSS3, JavaScript, e Python.
-- ⚡ Frameworks: Bootstrap, React.
-- 🖌️ Design: Photogimp, Canvas, AdobeXD, Figma.
+- 🌱 Tecnologias: HTML5, CSS3, Bootstrap, JavaScript, ReactJs e Python.
+- 🖌️ Design: Photogimp, Canvas, Figma, AdobeXD.
 - :anger: Outros: Wordpress
 - ☕ Codar e café.
  
