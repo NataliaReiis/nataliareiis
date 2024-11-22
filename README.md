@@ -5,11 +5,10 @@
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+my+name+is+Nat%C3%A1lia+Reis.;I%C2%B4m+a+computer+science+student.;Welcome!)](https://git.io/typing-svg)
 
- <img src="https://github-readme-stats.vercel.app/api?username=nataliareiis&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliareiis&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nataliareiis&bg_color=0a0c10&color=4c919e&line=4c919e&point=ec2bc2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 
 
@@ -21,7 +20,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	
+
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
 
